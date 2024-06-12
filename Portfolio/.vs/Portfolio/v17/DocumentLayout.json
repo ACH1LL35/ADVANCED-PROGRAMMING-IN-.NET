@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A23353C1-2758-4F90-80F7-C09539A13B88}|Portfolio\\Portfolio.csproj|d:\\10th semester\\github\\advanced-programming-in-.net\\portfolio\\portfolio\\models\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23353C1-2758-4F90-80F7-C09539A13B88}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\models\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23353C1-2758-4F90-80F7-C09539A13B88}|Portfolio\\Portfolio.csproj|D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\portfolio\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23353C1-2758-4F90-80F7-C09539A13B88}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23353C1-2758-4F90-80F7-C09539A13B88}|Portfolio\\Portfolio.csproj|D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\portfolio\\views\\form\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A23353C1-2758-4F90-80F7-C09539A13B88}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\views\\form\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23353C1-2758-4F90-80F7-C09539A13B88}|Portfolio\\Portfolio.csproj|D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\portfolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23353C1-2758-4F90-80F7-C09539A13B88}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23353C1-2758-4F90-80F7-C09539A13B88}|Portfolio\\Portfolio.csproj|D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\portfolio\\views\\home\\certificates.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A23353C1-2758-4F90-80F7-C09539A13B88}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\views\\home\\certificates.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23353C1-2758-4F90-80F7-C09539A13B88}|Portfolio\\Portfolio.csproj|D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\portfolio\\views\\home\\reference.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A23353C1-2758-4F90-80F7-C09539A13B88}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\views\\home\\reference.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23353C1-2758-4F90-80F7-C09539A13B88}|Portfolio\\Portfolio.csproj|D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\portfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A23353C1-2758-4F90-80F7-C09539A13B88}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23353C1-2758-4F90-80F7-C09539A13B88}|Portfolio\\Portfolio.csproj|D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\portfolio\\views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A23353C1-2758-4F90-80F7-C09539A13B88}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23353C1-2758-4F90-80F7-C09539A13B88}|Portfolio\\Portfolio.csproj|D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\portfolio\\views\\home\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A23353C1-2758-4F90-80F7-C09539A13B88}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\views\\home\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23353C1-2758-4F90-80F7-C09539A13B88}|Portfolio\\Portfolio.csproj|D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\portfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A23353C1-2758-4F90-80F7-C09539A13B88}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Projects.cs",
+              "DocumentMoniker": "D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\Portfolio\\Models\\Projects.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Models\\Projects.cs",
+              "ToolTip": "D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\Portfolio\\Models\\Projects.cs",
+              "RelativeToolTip": "Portfolio\\Models\\Projects.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T08:11:22.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormController.cs",
+              "DocumentMoniker": "D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\Portfolio\\Controllers\\FormController.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Controllers\\FormController.cs",
+              "ToolTip": "D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\Portfolio\\Controllers\\FormController.cs",
+              "RelativeToolTip": "Portfolio\\Controllers\\FormController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:19:00.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form.cshtml",
+              "DocumentMoniker": "D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\Portfolio\\Views\\Form\\Form.cshtml",
+              "RelativeDocumentMoniker": "Portfolio\\Views\\Form\\Form.cshtml",
+              "ToolTip": "D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\Portfolio\\Views\\Form\\Form.cshtml",
+              "RelativeToolTip": "Portfolio\\Views\\Form\\Form.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T09:14:40.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\Portfolio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\Portfolio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Portfolio\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAwwFEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T06:55:59.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Projects.cshtml",
+              "DocumentMoniker": "D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\Portfolio\\Views\\Home\\Projects.cshtml",
+              "RelativeDocumentMoniker": "Portfolio\\Views\\Home\\Projects.cshtml",
+              "ToolTip": "D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\Portfolio\\Views\\Home\\Projects.cshtml",
+              "RelativeToolTip": "Portfolio\\Views\\Home\\Projects.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T07:04:49.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\Portfolio\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Portfolio\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\Portfolio\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Portfolio\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T07:05:04.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reference.cshtml",
+              "DocumentMoniker": "D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\Portfolio\\Views\\Home\\Reference.cshtml",
+              "RelativeDocumentMoniker": "Portfolio\\Views\\Home\\Reference.cshtml",
+              "ToolTip": "D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\Portfolio\\Views\\Home\\Reference.cshtml",
+              "RelativeToolTip": "Portfolio\\Views\\Home\\Reference.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T07:04:03.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Certificates.cshtml",
+              "DocumentMoniker": "D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\Portfolio\\Views\\Home\\Certificates.cshtml",
+              "RelativeDocumentMoniker": "Portfolio\\Views\\Home\\Certificates.cshtml",
+              "ToolTip": "D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\Portfolio\\Views\\Home\\Certificates.cshtml",
+              "RelativeToolTip": "Portfolio\\Views\\Home\\Certificates.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T07:03:49.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Education.cshtml",
+              "DocumentMoniker": "D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\Portfolio\\Views\\Home\\Education.cshtml",
+              "RelativeDocumentMoniker": "Portfolio\\Views\\Home\\Education.cshtml",
+              "ToolTip": "D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\Portfolio\\Views\\Home\\Education.cshtml",
+              "RelativeToolTip": "Portfolio\\Views\\Home\\Education.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T06:56:15.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\Portfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Portfolio\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\10th semester\\GITHUB\\ADVANCED-PROGRAMMING-IN-.NET\\Portfolio\\Portfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Portfolio\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwBcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T06:51:00.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
